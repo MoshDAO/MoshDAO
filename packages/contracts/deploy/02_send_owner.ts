@@ -3,8 +3,12 @@ import type { HardhatRuntimeEnvironment } from "hardhat/types";
 
 dotenv.config();
 
-const deploy = async ({ ethers }: HardhatRuntimeEnvironment) => {
+const deploy = async ({ ethers, network }: HardhatRuntimeEnvironment) => {
   console.log(`WALLET_PUBLIC_ADDRESS: ${process.env.WALLET_PUBLIC_ADDRESS}`);
+
+  if (network.name !== "hardhat") {
+    return;
+  }
 
   const [owner] = await ethers.getSigners();
   const transactionHash = await owner.sendTransaction({
