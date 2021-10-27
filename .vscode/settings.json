@@ -2,7 +2,7 @@
   "solidity.enabledAsYouTypeCompilationErrorCheck": true,
   "solidity.linter": "solhint",
   "solidity.packageDefaultDependenciesContractsDirectory": "",
-  "solidity.packageDefaultDependenciesDirectory": "packages/contracts/node_modules",
+  "solidity.packageDefaultDependenciesDirectory": "node_modules",
   "solidity.solhintRules": {
     "avoid-sha3": "warn"
   },

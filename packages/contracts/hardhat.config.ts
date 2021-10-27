@@ -24,9 +24,11 @@ const config: HardhatUserConfig = {
   },
   networks: {
     ropsten: {
-      url: process.env.ROPSTEN_URL || "",
+      url: process.env.ALCHEMY_ROPSTEN_URL || "",
       accounts:
-        process.env.PRIVATE_KEY !== undefined ? [process.env.PRIVATE_KEY] : [],
+        process.env.WALLET_PRIVATE_KEY !== undefined
+          ? [process.env.WALLET_PRIVATE_KEY]
+          : [],
     },
   },
   abiExporter: {
