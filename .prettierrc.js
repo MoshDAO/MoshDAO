@@ -14,4 +14,12 @@ module.exports = {
   trailingComma: "all",
   useTabs: false,
   jsonRecursiveSort: true,
+  overrides: [
+    {
+      files: "config.json",
+      options: {
+        jsonRecursiveSort: false,
+      },
+    },
+  ],
 };

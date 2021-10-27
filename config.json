@@ -1,5 +1,5 @@
 {
-  "basePath": "/Users/shunkakinoki/ghq/github.com/MoshDAO/MoshDAO/images/",
+  "basePath": "/ghq/github.com/MoshDAO/MoshDAO/images/",
   "deleteDuplicates": false,
   "generateMetadata": true,
   "imageUrl": "https://art.mosh.lol/",
@@ -9,7 +9,7 @@
     "splitFiles": false
   },
   "order": [0, 1, 4, 2, 5, 3, 6],
-  "outputPath": "/Users/shunkakinoki/ghq/github.com/MoshDAO/MoshDAO/generated/",
+  "outputPath": "/ghq/github.com/MoshDAO/MoshDAO/generated/",
   "useCustomNames": 0,
   "weights": {
     "ARB.png": "33",
