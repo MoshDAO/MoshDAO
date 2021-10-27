@@ -2,6 +2,7 @@ import WalletConnectProvider from "@walletconnect/web3-provider";
 import { RequireNetwork, WalletProvider } from "ethereal-react";
 import { ThemeProvider } from "next-themes";
 import type { AppProps } from "next/app";
+import Script from "next/script";
 import { Suspense } from "react";
 
 import { ErrorBoundary } from "react-error-boundary";
@@ -14,6 +15,11 @@ const CustomApp = ({ Component, pageProps }: AppProps): JSX.Element => {
   return (
     <ErrorBoundary fallback={<></>}>
       <ThemeProvider attribute="class" defaultTheme="system">
+        <Script
+          defer
+          src="https://static.cloudflareinsights.com/beacon.min.js"
+          data-cf-beacon={`{"token": "${process.env.NEXT_PUBLIC_CLOUDFLARE_API_KEY}"}`}
+        />
         <WalletProvider
           cacheProvider
           providerOptions={{
