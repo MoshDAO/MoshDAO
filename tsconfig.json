@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "declaration": true,
+    "declarationMap": true,
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "outDir": "./dist",
+    "sourceMap": true,
+    "strict": true,
+    "target": "ES2017",
+    "paths": {
+      "@/artifacts/*": ["./packages/contracts/artifacts/*"],
+      "@/app/*": ["./packages/app/src/*"],
+      "@/art/*": ["./packages/art/src/*"],
+      "@/deployments/*": ["./packages/contracts/deployments/*"],
+      "@/home/*": ["./packages/home/src/*"],
+      "@/public/*": ["./public/*"],
+      "@/typechain/*": ["./packages/contracts/typechain/*"],
+      "@/types/*": ["./packages/types/index.ts"]
+    }
+  },
+  "include": ["./packages/**/**/src/**.ts"],
+  "exclude": ["dist", "node_modules"]
+}

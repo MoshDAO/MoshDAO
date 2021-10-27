@@ -1,0 +1,41 @@
+{
+  "name": "@MoshDAO/art",
+  "version": "1.0.0",
+  "private": false,
+  "description": "",
+  "homepage": "https://app.mosh.lol",
+  "bugs": {
+    "url": "https://github.com/MoshDAO/MoshDAO/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoshDAO/MoshDAO.git"
+  },
+  "license": "MIT",
+  "author": "Mosh DAO",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.3.0",
+    "@tailwindcss/forms": "^0.3.4",
+    "@tailwindcss/line-clamp": "^0.2.2",
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.3.7",
+    "clsx": "^1.1.1",
+    "copy-to-clipboard": "^3.3.1",
+    "critters": "^0.0.14",
+    "next": "^12.0.1",
+    "next-seo": "^4.28.1",
+    "react": "^18.0.0-alpha-3c4c1c470-20211021",
+    "react-dom": "^18.0.0-alpha-3c4c1c470-20211021",
+    "tailwindcss": "^2.2.17"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.10",
+    "@types/tailwindcss": "^2.2.2"
+  }
+}

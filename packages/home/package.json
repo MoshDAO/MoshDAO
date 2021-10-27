@@ -1,0 +1,50 @@
+{
+  "name": "@MoshDAO/home",
+  "version": "1.0.0",
+  "private": false,
+  "description": "",
+  "homepage": "https://app.mosh.lol",
+  "bugs": {
+    "url": "https://github.com/MoshDAO/MoshDAO/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoshDAO/MoshDAO.git"
+  },
+  "license": "MIT",
+  "author": "Mosh DAO",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^7.0.17",
+    "@tailwindcss/aspect-ratio": "^0.3.0",
+    "@tailwindcss/forms": "^0.3.4",
+    "@tailwindcss/line-clamp": "^0.2.2",
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.3.7",
+    "clsx": "^1.1.1",
+    "critters": "^0.0.14",
+    "moment": "^2.29.1",
+    "next": "^12.0.1",
+    "next-seo": "^4.28.1",
+    "next-themes": "^0.0.15",
+    "react": "^18.0.0-alpha-3c4c1c470-20211021",
+    "react-countdown": "^2.3.2",
+    "react-dom": "^18.0.0-alpha-3c4c1c470-20211021",
+    "react-fa": "^5.0.0",
+    "react-icons": "^4.3.1",
+    "sass": "^1.43.4",
+    "tailwindcss": "^2.2.17",
+    "three": "^0.133.1"
+  },
+  "devDependencies": {
+    "@types/moment": "^2.13.0",
+    "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.10",
+    "@types/tailwindcss": "^2.2.2",
+    "@types/three": "^0.133.1"
+  }
+}

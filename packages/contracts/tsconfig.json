@@ -1,0 +1,25 @@
+{
+  "extends": "../../tsconfig.json",
+  "compilerOptions": {
+    "declaration": true,
+    "declarationMap": true,
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "outDir": "./dist",
+    "rootDirs": ["./deploy", "./tasks", "./test", "./types", "./scripts"],
+    "sourceMap": true,
+    "strict": true,
+    "target": "ES2017",
+    "types": []
+  },
+  "exclude": ["**/node_modules"],
+  "files": ["./hardhat.config.ts"],
+  "include": [
+    "./deploy",
+    "./scripts",
+    "./tasks",
+    "./test",
+    "./types",
+    "./hardhat.config.ts"
+  ]
+}
