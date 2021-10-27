@@ -2,7 +2,7 @@
   "name": "@moshdao/contracts",
   "version": "1.0.0",
   "private": false,
-  "description": "",
+  "description": "Contracts for Mosh DAO",
   "homepage": "https://www.mosh.lol",
   "bugs": {
     "url": "https://github.com/MoshDAO/MoshDAO/issues"

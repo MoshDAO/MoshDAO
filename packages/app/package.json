@@ -2,7 +2,7 @@
   "name": "@moshdao/app",
   "version": "1.0.0",
   "private": false,
-  "description": "",
+  "description": "App for Mosh DAO",
   "homepage": "https://app.mosh.lol",
   "bugs": {
     "url": "https://github.com/MoshDAO/MoshDAO/issues"
