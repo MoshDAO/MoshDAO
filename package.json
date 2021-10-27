@@ -15,15 +15,7 @@
   "author": "Mosh DAO",
   "workspaces": {
     "packages": [
-      "packages/contracts",
-      "packages/graph",
-      "packages/web"
-    ],
-    "nohoist": [
-      "**/@graphprotocol/graph-ts",
-      "**/@graphprotocol/graph-ts/**",
-      "**/contracts",
-      "**/contracts/**"
+      "packages/*"
     ]
   },
   "scripts": {
@@ -38,7 +30,6 @@
     "fix": "concurrently 'yarn:*:fix'",
     "generate": "nft-generate --save-config",
     "hardhat": "npx hardhat",
-    "postinstall": "node -e \"process.exitCode = process.env.npm_execpath.includes('pnpm') ? 1 : 0;\" && npx pnpm@4.13.0 install || echo \"dependencies installed with pnpm\"",
     "lint": "concurrently 'yarn:*:lint'",
     "multi-semantic-release": "multi-semantic-release --sequential-init",
     "multi-semantic-release:check": "multi-semantic-release --dry-run --sequential-init",
@@ -56,6 +47,13 @@
     "task:accounts": "npx hardhat accounts",
     "test": "npx hardhat test",
     "test:gas": "REPORT_GAS=true npx hardhat test"
+  },
+  "resolutions": {
+    "@typechain/hardhat": "^2.3.1",
+    "typechain": "^5.2.0"
+  },
+  "dependencies": {
+    "next": "^12.0.1"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^13.2.0",
@@ -104,10 +102,6 @@
     "prettier-plugin-sort-json": "^0.0.2",
     "semantic-release": "^18.0.0",
     "typescript": "^4.4.4"
-  },
-  "dependencies": {
-    "next": "^12.0.1",
-    "tailwindcss": "^2.2.17"
   },
   "npmpackagejsonlint": {
     "extends": "npm-package-json-lint-config-default"
