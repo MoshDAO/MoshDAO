@@ -53,8 +53,7 @@
     "typechain": "^5.2.0"
   },
   "dependencies": {
-    "next": "^12.0.1",
-    "tailwindcss": "^2.2.17"
+    "next": "^12.0.1"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^13.2.0",
