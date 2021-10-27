@@ -89,7 +89,7 @@
     "git-cz": "^4.8.0",
     "husky": "^7.0.4",
     "lint-staged": "^11.2.6",
-    "nft-art-generator": "^1.0.5",
+    "nft-art-generator": "git+https://github.com/NotLuksus/nft-art-generator.git",
     "npm-check-updates": "^11.8.5",
     "npm-package-json-lint": "^5.4.0",
     "npm-package-json-lint-config-default": "^3.0.0",
