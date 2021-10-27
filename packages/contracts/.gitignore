@@ -1,6 +1,7 @@
 abi
 artifacts
 cache
-deployments
 dist
 typechain
+
+deployments/localhost
