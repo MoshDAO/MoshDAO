@@ -23,12 +23,31 @@ const config: HardhatUserConfig = {
     },
   },
   networks: {
+    localhost: {
+      live: false,
+      saveDeployments: true,
+      tags: ["local"],
+    },
+    hardhat: {
+      live: false,
+      saveDeployments: true,
+      tags: ["test", "local"],
+    },
+    rinkeby: {
+      url: process.env.ALCHEMY_RINKEBY_URL || "",
+      accounts:
+        process.env.WALLET_PRIVATE_KEY !== undefined
+          ? [process.env.WALLET_PRIVATE_KEY]
+          : [],
+      tags: ["rinkeby"],
+    },
     ropsten: {
       url: process.env.ALCHEMY_ROPSTEN_URL || "",
       accounts:
         process.env.WALLET_PRIVATE_KEY !== undefined
           ? [process.env.WALLET_PRIVATE_KEY]
           : [],
+      tags: ["ropsten"],
     },
   },
   abiExporter: {
