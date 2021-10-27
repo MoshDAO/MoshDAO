@@ -1,3 +1,3 @@
 # MoshDAO
 
-![!image](/public/ogp.jpg)
+![!image](/assets/ogp.jpg)

@@ -6,12 +6,12 @@ import { ButtonCTA } from "@/home/components/ButtonCTA";
 import { CountdownClock } from "@/home/components/CountdownClock";
 import { FooterLogo } from "@/home/components/FooterLogo";
 import { GlowLogo } from "@/home/components/GlowLogo";
-import BlueHandImage from "@/public/BlueHand.png";
-import LogoGif from "@/public/Logo.gif";
-import LogoImage from "@/public/Logo.png";
-import PurpleHandImage from "@/public/PurpleHand.png";
-import RedWaveImage from "@/public/RedWave.png";
-import SunshineImage from "@/public/Sunshine.png";
+import BlueHandImage from "@/home/public/BlueHand.png";
+import LogoGif from "@/home/public/Logo.gif";
+import LogoImage from "@/home/public/Logo.png";
+import PurpleHandImage from "@/home/public/PurpleHand.png";
+import RedWaveImage from "@/home/public/RedWave.png";
+import SunshineImage from "@/home/public/Sunshine.png";
 
 const Canvas = dynamic(async () => {
   const m = await import("@react-three/fiber");

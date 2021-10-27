@@ -8,6 +8,7 @@ import { Suspense } from "react";
 import { ErrorBoundary } from "react-error-boundary";
 
 import { ConnectButton } from "@/app/components/ConnectButton";
+import { Seo } from "@/app/components/Seo";
 import { SwitchNetwork } from "@/app/components/SwitchNetwork";
 import "tailwindcss/tailwind.css";
 
@@ -20,6 +21,7 @@ const CustomApp = ({ Component, pageProps }: AppProps): JSX.Element => {
           src="https://static.cloudflareinsights.com/beacon.min.js"
           data-cf-beacon={`{"token": "${process.env.NEXT_PUBLIC_CLOUDFLARE_API_KEY}"}`}
         />
+        <Seo />
         <WalletProvider
           cacheProvider
           providerOptions={{
