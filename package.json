@@ -19,11 +19,7 @@
     ]
   },
   "scripts": {
-    "build": "yarn build:sol && yarn build:ts",
-    "build:sol": "npx hardhat compile",
-    "build:ts": "tsc -p .",
-    "clean": "npx hardhat clean",
-    "env:pull": "doppler secrets download --no-file --format env > .env",
+    "build": "yarn workspace @moshdao/contracts build && yarn workspace @moshdao/app build",
     "eslint:cmd": "eslint --config .eslintrc.js --ignore-path .gitignore --cache --cache-location ./node_modules/.cache/eslint",
     "eslint:fix": "yarn run eslint:cmd . --fix",
     "eslint:lint": "yarn run eslint:cmd .",
@@ -44,10 +40,7 @@
     "prettier:lint": "yarn run prettier:cmd --check .",
     "postpublish": "pinst --enable",
     "release": "semantic-release",
-    "release:check": "semantic-release --dry-run",
-    "task:accounts": "npx hardhat accounts",
-    "test": "npx hardhat test",
-    "test:gas": "REPORT_GAS=true npx hardhat test"
+    "release:check": "semantic-release --dry-run"
   },
   "resolutions": {
     "@typechain/hardhat": "^2.3.1",
