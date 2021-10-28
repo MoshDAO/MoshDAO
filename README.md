@@ -1,8 +1,8 @@
 # MoshDAO
 
-[!image](/assets/ogp.jpg)
+![!image](/assets/ogp.jpg)
 
-<h1 align="center">🦄 Mosh DAO 🦄</h1>
+<br/>
 
 <h3 align="center">
   <strong>A Cross-chain NFT Project.</strong>
@@ -18,5 +18,3 @@
         <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome!" />
     </a>
 </p>
-
----
