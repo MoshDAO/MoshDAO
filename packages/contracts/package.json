@@ -31,7 +31,9 @@
     "hardhat": "hardhat",
     "node": "hardhat node --hostname 0.0.0.0 --show-accounts",
     "task:accounts": "hardhat accounts",
+    "task:deploy:Game": "hardhat deploy:Game",
     "task:deploy:Greeter": "hardhat deploy:Greeter",
+    "task:deploy:NFT": "hardhat deploy:NFT",
     "task:deploy:Wave": "hardhat deploy:Wave",
     "test": "hardhat test",
     "test:gas": "REPORT_GAS=true hardhat test"
