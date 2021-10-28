@@ -1,1 +1,2697 @@
-{"0":{"name":"#0","description":"","image":"https://art.mosh.lol/0","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"DoctorStyle"},{"trait_type":"Mane","value":"GreyMane"},{"trait_type":"Face","value":"BlueGrin"},{"trait_type":"Sunglasses","value":"VR"},{"trait_type":"Hats","value":"Horn"},{"trait_type":"Text","value":"EscapeFromReality"}]},"1":{"name":"#1","description":"","image":"https://art.mosh.lol/1","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"BlueGrin"},{"trait_type":"Sunglasses","value":"3D"},{"trait_type":"Hats","value":"Horn"},{"trait_type":"Text","value":"SushiParadise"}]},"2":{"name":"#2","description":"","image":"https://art.mosh.lol/2","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"GreyMane"},{"trait_type":"Face","value":"OrangeGrowl"},{"trait_type":"Sunglasses","value":"Pixel"},{"trait_type":"Hats","value":"PartyHat"},{"trait_type":"Text","value":"EscapeFromReality"}]},"3":{"name":"#3","description":"","image":"https://art.mosh.lol/3","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"SalmonPinkPlain"},{"trait_type":"Sunglasses","value":"Sports1"},{"trait_type":"Hats","value":"Horn"},{"trait_type":"Text","value":"SushiParadise"}]},"4":{"name":"#4","description":"","image":"https://art.mosh.lol/4","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"BlueGrin"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"BluePiercing"},{"trait_type":"Text","value":"TokyoSummer"}]},"5":{"name":"#5","description":"","image":"https://art.mosh.lol/5","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"MacintoshSweater"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"BlueBleah"},{"trait_type":"Sunglasses","value":"Sports1"},{"trait_type":"Hats","value":"HeadphoneBlack"},{"trait_type":"Text","value":"TokyoSummer"}]},"6":{"name":"#6","description":"","image":"https://art.mosh.lol/6","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"GreyMane"},{"trait_type":"Face","value":"OrangeBleah"},{"trait_type":"Sunglasses","value":"Laser"},{"trait_type":"Hats","value":"PartyHat"},{"trait_type":"Text","value":"TropicalJuice"}]},"7":{"name":"#7","description":"","image":"https://art.mosh.lol/7","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"PinkPlain"},{"trait_type":"Sunglasses","value":"Sports2"},{"trait_type":"Hats","value":"GoldPiercing"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"8":{"name":"#8","description":"","image":"https://art.mosh.lol/8","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"MoshSweater"},{"trait_type":"Mane","value":"OrangeMane"},{"trait_type":"Face","value":"PinkGrin"},{"trait_type":"Sunglasses","value":"Sports2"},{"trait_type":"Hats","value":"HeadphoneBlack"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"9":{"name":"#9","description":"","image":"https://art.mosh.lol/9","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"MacintoshSweater"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"SalmonPinkPlain"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"HatRed"},{"trait_type":"Text","value":"Cucumber"}]},"10":{"name":"#10","description":"","image":"https://art.mosh.lol/10","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"MacintoshSweater"},{"trait_type":"Mane","value":"OrangeMane"},{"trait_type":"Face","value":"OrangeGrin"},{"trait_type":"Sunglasses","value":"Laser"},{"trait_type":"Hats","value":"Propeller"},{"trait_type":"Text","value":"TokyoSummer"}]},"11":{"name":"#11","description":"","image":"https://art.mosh.lol/11","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"SalmonPinkBleah"},{"trait_type":"Sunglasses","value":"Sports1"},{"trait_type":"Hats","value":"ArmyHat"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"12":{"name":"#12","description":"","image":"https://art.mosh.lol/12","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"OrangeMane"},{"trait_type":"Face","value":"PinkGrowl"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"Doctor"},{"trait_type":"Text","value":"TropicalJuice"}]},"13":{"name":"#13","description":"","image":"https://art.mosh.lol/13","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"GreyMane"},{"trait_type":"Face","value":"BlueBleah"},{"trait_type":"Sunglasses","value":"VR"},{"trait_type":"Hats","value":"ArmyHat"},{"trait_type":"Text","value":"TropicalJuice"}]},"14":{"name":"#14","description":"","image":"https://art.mosh.lol/14","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"DoctorStyle"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"PinkGrin"},{"trait_type":"Sunglasses","value":"Sports2"},{"trait_type":"Hats","value":"Crown"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"15":{"name":"#15","description":"","image":"https://art.mosh.lol/15","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"DoctorStyle"},{"trait_type":"Mane","value":"OrangeMane"},{"trait_type":"Face","value":"PinkPlain"},{"trait_type":"Sunglasses","value":"Sports2"},{"trait_type":"Hats","value":"HatBlack"},{"trait_type":"Text","value":"ZettaiRyoiki"}]},"16":{"name":"#16","description":"","image":"https://art.mosh.lol/16","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"BlueGrowl"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"Doctor"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"17":{"name":"#17","description":"","image":"https://art.mosh.lol/17","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"BluePlain"},{"trait_type":"Sunglasses","value":"Sports1"},{"trait_type":"Hats","value":"MoshHat"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"18":{"name":"#18","description":"","image":"https://art.mosh.lol/18","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"OrangeMane"},{"trait_type":"Face","value":"OrangeGrowl"},{"trait_type":"Sunglasses","value":"3D"},{"trait_type":"Hats","value":"HatBlack"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"19":{"name":"#19","description":"","image":"https://art.mosh.lol/19","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"BlueGrin"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"Propeller"},{"trait_type":"Text","value":"ZettaiRyoiki"}]},"20":{"name":"#20","description":"","image":"https://art.mosh.lol/20","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"TrippySweater"},{"trait_type":"Mane","value":"GreyMane"},{"trait_type":"Face","value":"OrangeBleah"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"HatRed"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"21":{"name":"#21","description":"","image":"https://art.mosh.lol/21","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"BluePlain"},{"trait_type":"Sunglasses","value":"Sports2"},{"trait_type":"Hats","value":"HatBlack"},{"trait_type":"Text","value":"TokyoSummer"}]},"22":{"name":"#22","description":"","image":"https://art.mosh.lol/22","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"DoctorStyle"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"PinkGrowl"},{"trait_type":"Sunglasses","value":"3D"},{"trait_type":"Hats","value":"Propeller"},{"trait_type":"Text","value":"ZettaiRyoiki"}]},"23":{"name":"#23","description":"","image":"https://art.mosh.lol/23","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"GreyMane"},{"trait_type":"Face","value":"Robot"},{"trait_type":"Sunglasses","value":"Pixel"},{"trait_type":"Hats","value":"HatBlack"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"24":{"name":"#24","description":"","image":"https://art.mosh.lol/24","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"SalmonPinkBleah"},{"trait_type":"Sunglasses","value":"Sports1"},{"trait_type":"Hats","value":"MoshHat"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"25":{"name":"#25","description":"","image":"https://art.mosh.lol/25","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"PinkBleah"},{"trait_type":"Sunglasses","value":"Sports2"},{"trait_type":"Hats","value":"Horn"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"26":{"name":"#26","description":"","image":"https://art.mosh.lol/26","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"OrangePlain"},{"trait_type":"Sunglasses","value":"Sports2"},{"trait_type":"Hats","value":"Beanie"},{"trait_type":"Text","value":"TokyoSummer"}]},"27":{"name":"#27","description":"","image":"https://art.mosh.lol/27","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"SalmonPinkBleah"},{"trait_type":"Sunglasses","value":"Sports1"},{"trait_type":"Hats","value":"Beanie"},{"trait_type":"Text","value":"EscapeFromReality"}]},"28":{"name":"#28","description":"","image":"https://art.mosh.lol/28","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"PinkPlain"},{"trait_type":"Sunglasses","value":"3D"},{"trait_type":"Hats","value":"MoshHat"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"29":{"name":"#29","description":"","image":"https://art.mosh.lol/29","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"TrippySweater"},{"trait_type":"Mane","value":"OrangeMane"},{"trait_type":"Face","value":"BlueGrowl"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"Propeller"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"30":{"name":"#30","description":"","image":"https://art.mosh.lol/30","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"Robot"},{"trait_type":"Sunglasses","value":"Laser"},{"trait_type":"Hats","value":"GoldPiercing"},{"trait_type":"Text","value":"TokyoSummer"}]},"31":{"name":"#31","description":"","image":"https://art.mosh.lol/31","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"OrangeMane"},{"trait_type":"Face","value":"OrangeGrin"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"PartyHat"},{"trait_type":"Text","value":"TropicalJuice"}]},"32":{"name":"#32","description":"","image":"https://art.mosh.lol/32","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"GreyMane"},{"trait_type":"Face","value":"SalmonPinkGrin"},{"trait_type":"Sunglasses","value":"Sports1"},{"trait_type":"Hats","value":"Propeller2"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"33":{"name":"#33","description":"","image":"https://art.mosh.lol/33","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"MacintoshSweater"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"BluePlain"},{"trait_type":"Sunglasses","value":"Laser"},{"trait_type":"Hats","value":"ArmyHat"},{"trait_type":"Text","value":"EscapeFromReality"}]},"34":{"name":"#34","description":"","image":"https://art.mosh.lol/34","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"OrangeMane"},{"trait_type":"Face","value":"SalmonPinkGrowl"},{"trait_type":"Sunglasses","value":"VR"},{"trait_type":"Hats","value":"Beanie"},{"trait_type":"Text","value":"ZettaiRyoiki"}]},"35":{"name":"#35","description":"","image":"https://art.mosh.lol/35","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"BluePlain"},{"trait_type":"Sunglasses","value":"Sports1"},{"trait_type":"Hats","value":"Beanie"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"36":{"name":"#36","description":"","image":"https://art.mosh.lol/36","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"SalmonPinkGrin"},{"trait_type":"Sunglasses","value":"VR"},{"trait_type":"Hats","value":"HatBlack"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"37":{"name":"#37","description":"","image":"https://art.mosh.lol/37","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"MacintoshSweater"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"SalmonPinkGrin"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"Doctor"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"38":{"name":"#38","description":"","image":"https://art.mosh.lol/38","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"OrangeMane"},{"trait_type":"Face","value":"OrangePlain"},{"trait_type":"Sunglasses","value":"3D"},{"trait_type":"Hats","value":"PartyHat"},{"trait_type":"Text","value":"TokyoSummer"}]},"39":{"name":"#39","description":"","image":"https://art.mosh.lol/39","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"DoctorStyle"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"BluePlain"},{"trait_type":"Sunglasses","value":"3D"},{"trait_type":"Hats","value":"BluePiercing"},{"trait_type":"Text","value":"EscapeFromReality"}]},"40":{"name":"#40","description":"","image":"https://art.mosh.lol/40","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"OrangeGrin"},{"trait_type":"Sunglasses","value":"Pixel"},{"trait_type":"Hats","value":"HeadphoneBlack"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"41":{"name":"#41","description":"","image":"https://art.mosh.lol/41","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"DoctorStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"PinkPlain"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"Propeller"},{"trait_type":"Text","value":"TropicalJuice"}]},"42":{"name":"#42","description":"","image":"https://art.mosh.lol/42","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"GreyMane"},{"trait_type":"Face","value":"BluePlain"},{"trait_type":"Sunglasses","value":"Sports2"},{"trait_type":"Hats","value":"Doctor"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"43":{"name":"#43","description":"","image":"https://art.mosh.lol/43","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"SalmonPinkGrowl"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"HeadphoneBlue"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"44":{"name":"#44","description":"","image":"https://art.mosh.lol/44","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"MacintoshSweater"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"PinkPlain"},{"trait_type":"Sunglasses","value":"Sports1"},{"trait_type":"Hats","value":"HeadphoneBlue"},{"trait_type":"Text","value":"EscapeFromReality"}]},"45":{"name":"#45","description":"","image":"https://art.mosh.lol/45","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"GreyMane"},{"trait_type":"Face","value":"SalmonPinkGrowl"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"PartyHat"},{"trait_type":"Text","value":"Cucumber"}]},"46":{"name":"#46","description":"","image":"https://art.mosh.lol/46","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"OrangePlain"},{"trait_type":"Sunglasses","value":"3D"},{"trait_type":"Hats","value":"BluePiercing"},{"trait_type":"Text","value":"Cucumber"}]},"47":{"name":"#47","description":"","image":"https://art.mosh.lol/47","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"MoshSweater"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"OrangeGrowl"},{"trait_type":"Sunglasses","value":"Sports2"},{"trait_type":"Hats","value":"HatRed"},{"trait_type":"Text","value":"TokyoSummer"}]},"48":{"name":"#48","description":"","image":"https://art.mosh.lol/48","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"PinkGrowl"},{"trait_type":"Sunglasses","value":"Pixel"},{"trait_type":"Hats","value":"HatBlack"},{"trait_type":"Text","value":"EscapeFromReality"}]},"49":{"name":"#49","description":"","image":"https://art.mosh.lol/49","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"PinkGrin"},{"trait_type":"Sunglasses","value":"Sports1"},{"trait_type":"Hats","value":"Bucket"},{"trait_type":"Text","value":"ZettaiRyoiki"}]},"50":{"name":"#50","description":"","image":"https://art.mosh.lol/50","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"MacintoshSweater"},{"trait_type":"Mane","value":"OrangeMane"},{"trait_type":"Face","value":"PinkGrowl"},{"trait_type":"Sunglasses","value":"3D"},{"trait_type":"Hats","value":"ArmyHat"},{"trait_type":"Text","value":"SushiParadise"}]},"51":{"name":"#51","description":"","image":"https://art.mosh.lol/51","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"OrangeGrin"},{"trait_type":"Sunglasses","value":"3D"},{"trait_type":"Hats","value":"Doctor"},{"trait_type":"Text","value":"EscapeFromReality"}]},"52":{"name":"#52","description":"","image":"https://art.mosh.lol/52","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"TrippySweater"},{"trait_type":"Mane","value":"GreyMane"},{"trait_type":"Face","value":"PinkGrin"},{"trait_type":"Sunglasses","value":"Sports1"},{"trait_type":"Hats","value":"Horn"},{"trait_type":"Text","value":"TropicalJuice"}]},"53":{"name":"#53","description":"","image":"https://art.mosh.lol/53","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"SalmonPinkGrowl"},{"trait_type":"Sunglasses","value":"3D"},{"trait_type":"Hats","value":"MoshHat"},{"trait_type":"Text","value":"TropicalJuice"}]},"54":{"name":"#54","description":"","image":"https://art.mosh.lol/54","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"GreyMane"},{"trait_type":"Face","value":"SalmonPinkGrowl"},{"trait_type":"Sunglasses","value":"Laser"},{"trait_type":"Hats","value":"Bucket"},{"trait_type":"Text","value":"SushiParadise"}]},"55":{"name":"#55","description":"","image":"https://art.mosh.lol/55","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"PinkGrin"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"HeadphoneBlue"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"56":{"name":"#56","description":"","image":"https://art.mosh.lol/56","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"MacintoshSweater"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"BlueGrowl"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"Propeller"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"57":{"name":"#57","description":"","image":"https://art.mosh.lol/57","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"BlueBleah"},{"trait_type":"Sunglasses","value":"Sports1"},{"trait_type":"Hats","value":"PartyHat"},{"trait_type":"Text","value":"TokyoSummer"}]},"58":{"name":"#58","description":"","image":"https://art.mosh.lol/58","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"PinkBleah"},{"trait_type":"Sunglasses","value":"Sports2"},{"trait_type":"Hats","value":"HatBlack"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"59":{"name":"#59","description":"","image":"https://art.mosh.lol/59","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"MoshSweater"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"OrangeBleah"},{"trait_type":"Sunglasses","value":"3D"},{"trait_type":"Hats","value":"HatBlack"},{"trait_type":"Text","value":"TropicalJuice"}]},"60":{"name":"#60","description":"","image":"https://art.mosh.lol/60","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"TrippySweater"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"Robot"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"HeadphoneBlack"},{"trait_type":"Text","value":"Cucumber"}]},"61":{"name":"#61","description":"","image":"https://art.mosh.lol/61","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"OrangeMane"},{"trait_type":"Face","value":"PinkPlain"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"ArmyHat"},{"trait_type":"Text","value":"EscapeFromReality"}]},"62":{"name":"#62","description":"","image":"https://art.mosh.lol/62","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"OrangePlain"},{"trait_type":"Sunglasses","value":"Pixel"},{"trait_type":"Hats","value":"Beanie"},{"trait_type":"Text","value":"EscapeFromReality"}]},"63":{"name":"#63","description":"","image":"https://art.mosh.lol/63","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"OrangePlain"},{"trait_type":"Sunglasses","value":"Laser"},{"trait_type":"Hats","value":"HatRed"},{"trait_type":"Text","value":"EscapeFromReality"}]},"64":{"name":"#64","description":"","image":"https://art.mosh.lol/64","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"PinkGrowl"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"ArmyHat"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"65":{"name":"#65","description":"","image":"https://art.mosh.lol/65","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"PinkBleah"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"PartyHat"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"66":{"name":"#66","description":"","image":"https://art.mosh.lol/66","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"SalmonPinkGrin"},{"trait_type":"Sunglasses","value":"Sports2"},{"trait_type":"Hats","value":"Beanie"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"67":{"name":"#67","description":"","image":"https://art.mosh.lol/67","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"SalmonPinkGrin"},{"trait_type":"Sunglasses","value":"Sports2"},{"trait_type":"Hats","value":"GoldPiercing"},{"trait_type":"Text","value":"TokyoSummer"}]},"68":{"name":"#68","description":"","image":"https://art.mosh.lol/68","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"MacintoshSweater"},{"trait_type":"Mane","value":"GreyMane"},{"trait_type":"Face","value":"SalmonPinkPlain"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"Propeller"},{"trait_type":"Text","value":"Cucumber"}]},"69":{"name":"#69","description":"","image":"https://art.mosh.lol/69","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"Robot"},{"trait_type":"Sunglasses","value":"VR"},{"trait_type":"Hats","value":"Beanie"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"70":{"name":"#70","description":"","image":"https://art.mosh.lol/70","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"BlueBleah"},{"trait_type":"Sunglasses","value":"Sports2"},{"trait_type":"Hats","value":"HatBlack"},{"trait_type":"Text","value":"SushiParadise"}]},"71":{"name":"#71","description":"","image":"https://art.mosh.lol/71","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"PinkGrin"},{"trait_type":"Sunglasses","value":"VR"},{"trait_type":"Hats","value":"Propeller2"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"72":{"name":"#72","description":"","image":"https://art.mosh.lol/72","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"PinkGrowl"},{"trait_type":"Sunglasses","value":"3D"},{"trait_type":"Hats","value":"MoshHat"},{"trait_type":"Text","value":"ZettaiRyoiki"}]},"73":{"name":"#73","description":"","image":"https://art.mosh.lol/73","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"GreyMane"},{"trait_type":"Face","value":"SalmonPinkPlain"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"PartyHat"},{"trait_type":"Text","value":"TokyoSummer"}]},"74":{"name":"#74","description":"","image":"https://art.mosh.lol/74","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"DoctorStyle"},{"trait_type":"Mane","value":"GreyMane"},{"trait_type":"Face","value":"BlueGrowl"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"MoshHat"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"75":{"name":"#75","description":"","image":"https://art.mosh.lol/75","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"SalmonPinkBleah"},{"trait_type":"Sunglasses","value":"Laser"},{"trait_type":"Hats","value":"Propeller2"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"76":{"name":"#76","description":"","image":"https://art.mosh.lol/76","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"DoctorStyle"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"BlueBleah"},{"trait_type":"Sunglasses","value":"Pixel"},{"trait_type":"Hats","value":"HatRed"},{"trait_type":"Text","value":"ZettaiRyoiki"}]},"77":{"name":"#77","description":"","image":"https://art.mosh.lol/77","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"DoctorStyle"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"OrangeGrowl"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"MoshHat"},{"trait_type":"Text","value":"Cucumber"}]},"78":{"name":"#78","description":"","image":"https://art.mosh.lol/78","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"PinkPlain"},{"trait_type":"Sunglasses","value":"Pixel"},{"trait_type":"Hats","value":"Propeller2"},{"trait_type":"Text","value":"SushiParadise"}]},"79":{"name":"#79","description":"","image":"https://art.mosh.lol/79","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"DoctorStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"OrangeGrowl"},{"trait_type":"Sunglasses","value":"Sports1"},{"trait_type":"Hats","value":"HeadphoneBlack"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"80":{"name":"#80","description":"","image":"https://art.mosh.lol/80","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"SalmonPinkPlain"},{"trait_type":"Sunglasses","value":"Sports1"},{"trait_type":"Hats","value":"PartyHat"},{"trait_type":"Text","value":"EscapeFromReality"}]},"81":{"name":"#81","description":"","image":"https://art.mosh.lol/81","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"SalmonPinkBleah"},{"trait_type":"Sunglasses","value":"Sports2"},{"trait_type":"Hats","value":"Doctor"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"82":{"name":"#82","description":"","image":"https://art.mosh.lol/82","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"MoshSweater"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"BluePlain"},{"trait_type":"Sunglasses","value":"VR"},{"trait_type":"Hats","value":"HeadphoneBlue"},{"trait_type":"Text","value":"TropicalJuice"}]},"83":{"name":"#83","description":"","image":"https://art.mosh.lol/83","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"MacintoshSweater"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"OrangePlain"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"HeadphoneBlue"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"84":{"name":"#84","description":"","image":"https://art.mosh.lol/84","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"MacintoshSweater"},{"trait_type":"Mane","value":"BlackMane"},{"trait_type":"Face","value":"SalmonPinkGrowl"},{"trait_type":"Sunglasses","value":"Sports1"},{"trait_type":"Hats","value":"Doctor"},{"trait_type":"Text","value":"TokyoSummer"}]},"85":{"name":"#85","description":"","image":"https://art.mosh.lol/85","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"OrangeBleah"},{"trait_type":"Sunglasses","value":"3D"},{"trait_type":"Hats","value":"Propeller"},{"trait_type":"Text","value":"TropicalJuice"}]},"86":{"name":"#86","description":"","image":"https://art.mosh.lol/86","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"MacintoshSweater"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"OrangeBleah"},{"trait_type":"Sunglasses","value":"3D"},{"trait_type":"Hats","value":"PartyHat"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"87":{"name":"#87","description":"","image":"https://art.mosh.lol/87","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"SalmonPinkPlain"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"Doctor"},{"trait_type":"Text","value":"EscapeFromReality"}]},"88":{"name":"#88","description":"","image":"https://art.mosh.lol/88","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"DoctorStyle"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"OrangeGrowl"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"HeadphoneBlack"},{"trait_type":"Text","value":"EscapeFromReality"}]},"89":{"name":"#89","description":"","image":"https://art.mosh.lol/89","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"OrangeMane"},{"trait_type":"Face","value":"BlueGrowl"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"HatRed"},{"trait_type":"Text","value":"ZettaiRyoiki"}]},"90":{"name":"#90","description":"","image":"https://art.mosh.lol/90","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"DoctorStyle"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"OrangeGrin"},{"trait_type":"Sunglasses","value":"Black"},{"trait_type":"Hats","value":"Horn"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"91":{"name":"#91","description":"","image":"https://art.mosh.lol/91","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"DoctorStyle"},{"trait_type":"Mane","value":"OrangeMane"},{"trait_type":"Face","value":"BlueGrowl"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"Propeller2"},{"trait_type":"Text","value":"SushiParadise"}]},"92":{"name":"#92","description":"","image":"https://art.mosh.lol/92","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"DoctorStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"BlueGrin"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"ArmyHat"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"93":{"name":"#93","description":"","image":"https://art.mosh.lol/93","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"PinkBleah"},{"trait_type":"Sunglasses","value":"VR"},{"trait_type":"Hats","value":"HatRed"},{"trait_type":"Text","value":"ZettaiRyoiki"}]},"94":{"name":"#94","description":"","image":"https://art.mosh.lol/94","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"HiphopStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"SalmonPinkPlain"},{"trait_type":"Sunglasses","value":"VR"},{"trait_type":"Hats","value":"Doctor"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"95":{"name":"#95","description":"","image":"https://art.mosh.lol/95","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"MacintoshSweater"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"BlueGrin"},{"trait_type":"Sunglasses","value":"Pixel"},{"trait_type":"Hats","value":"HatRed"},{"trait_type":"Text","value":"TokyoSummer"}]},"96":{"name":"#96","description":"","image":"https://art.mosh.lol/96","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"MacintoshSweater"},{"trait_type":"Mane","value":"GreyMane"},{"trait_type":"Face","value":"SalmonPinkGrin"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"Propeller2"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"97":{"name":"#97","description":"","image":"https://art.mosh.lol/97","attributes":[{"trait_type":"Background","value":"Eth"},{"trait_type":"Clothes","value":"ArmyStyle"},{"trait_type":"Mane","value":"MoshMane"},{"trait_type":"Face","value":"OrangePlain"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"ArmyHat"},{"trait_type":"Text","value":"LoveAtFirstSight"}]},"98":{"name":"#98","description":"","image":"https://art.mosh.lol/98","attributes":[{"trait_type":"Background","value":"ARB"},{"trait_type":"Clothes","value":"CursorStyle"},{"trait_type":"Mane","value":"BlueMane"},{"trait_type":"Face","value":"PinkBleah"},{"trait_type":"Sunglasses","value":"Blue"},{"trait_type":"Hats","value":"MoshHat"},{"trait_type":"Text","value":"InhaleTheFuture"}]},"99":{"name":"#99","description":"","image":"https://art.mosh.lol/99","attributes":[{"trait_type":"Background","value":"MATIC"},{"trait_type":"Clothes","value":"MacintoshSweater"},{"trait_type":"Mane","value":"YellowMane"},{"trait_type":"Face","value":"OrangeGrin"},{"trait_type":"Sunglasses","value":"Sports2"},{"trait_type":"Hats","value":"Propeller2"},{"trait_type":"Text","value":"Cucumber"}]}}
+{
+  "0": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MacintoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Laser"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Propeller"
+      },
+      {
+        "trait_type": "Text",
+        "value": "StrawberryMilk"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/0",
+    "name": "#0"
+  },
+  "1": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "NavyUniform"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlackMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SalmonPinkBleah"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports1"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TokyoSummer"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/1",
+    "name": "#1"
+  },
+  "2": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "DoctorStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "OrangeMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Robot"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports2"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "ArmyHatPink"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TropicalJuice"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/2",
+    "name": "#2"
+  },
+  "3": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HakamaBlack"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "OrangeMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangePlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "3D"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "PierceGold"
+      },
+      {
+        "trait_type": "Text",
+        "value": "Cucumber"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/3",
+    "name": "#3"
+  },
+  "4": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "TrippySweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "GreyMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "ArmyHatPink"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TokyoSummer"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/4",
+    "name": "#4"
+  },
+  "5": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HakamaNavy"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "GreyMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeBleah"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports1"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Horn"
+      },
+      {
+        "trait_type": "Text",
+        "value": "ZettaiRyoiki"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/5",
+    "name": "#5"
+  },
+  "6": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "ArmyStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports1"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "PiercePurple"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TokyoSummer"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/6",
+    "name": "#6"
+  },
+  "7": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MacintoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkBleah"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "3D"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "IceCreamVanilla"
+      },
+      {
+        "trait_type": "Text",
+        "value": "LoveAtFirstSight"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/7",
+    "name": "#7"
+  },
+  "8": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "ArmyStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "GreyMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BlueGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Text",
+        "value": "LoveAtFirstSight"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/8",
+    "name": "#8"
+  },
+  "9": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "DoctorStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "OrangeMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SalmonPinkBleah"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Laser"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Propeller2"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TokyoSummer"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/9",
+    "name": "#9"
+  },
+  "10": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HakamaNavy"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "PartyHat"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TokyoSummer"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/10",
+    "name": "#10"
+  },
+  "11": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "NavyUniform"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlackMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkBleah"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports1"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "IceCreamStrawberry"
+      },
+      {
+        "trait_type": "Text",
+        "value": "Cucumber"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/11",
+    "name": "#11"
+  },
+  "12": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HakamaBlack"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "GreyMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports2"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Horn"
+      },
+      {
+        "trait_type": "Text",
+        "value": "LoveAtFirstSight"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/12",
+    "name": "#12"
+  },
+  "13": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HakamaNavy"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SalmonPinkGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports2"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HeadphoneBlue"
+      },
+      {
+        "trait_type": "Text",
+        "value": "StrawberryMilk"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/13",
+    "name": "#13"
+  },
+  "14": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "DoctorStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Beanie"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TropicalJuice"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/14",
+    "name": "#14"
+  },
+  "15": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MacintoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "OrangeMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BluePlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HatRed"
+      },
+      {
+        "trait_type": "Text",
+        "value": "StrawberryMilk"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/15",
+    "name": "#15"
+  },
+  "16": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "CursorStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BlueBleah"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports2"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Beanie"
+      },
+      {
+        "trait_type": "Text",
+        "value": "EscapeFromReality"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/16",
+    "name": "#16"
+  },
+  "17": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "DoctorStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "OrangeMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SalmonPinkPlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports1"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "PiercePurple"
+      },
+      {
+        "trait_type": "Text",
+        "value": "InhaleTheFuture"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/17",
+    "name": "#17"
+  },
+  "18": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "CursorStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "GreyMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Doctor"
+      },
+      {
+        "trait_type": "Text",
+        "value": "InhaleTheFuture"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/18",
+    "name": "#18"
+  },
+  "19": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "TrippySweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "OrangeMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangePlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HeadphoneBlack"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TokyoSummer"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/19",
+    "name": "#19"
+  },
+  "20": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HiphopStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "MoshMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BluePlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports2"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "PartyHat"
+      },
+      {
+        "trait_type": "Text",
+        "value": "ZettaiRyoiki"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/20",
+    "name": "#20"
+  },
+  "21": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HiphopStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports1"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "IceCreamStrawberry"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TokyoSummer"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/21",
+    "name": "#21"
+  },
+  "22": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "CursorStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "OrangeMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SalmonPinkGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports2"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HatRed"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TropicalJuice"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/22",
+    "name": "#22"
+  },
+  "23": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HiphopStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "GreyMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeBleah"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Laser"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Propeller"
+      },
+      {
+        "trait_type": "Text",
+        "value": "EscapeFromReality"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/23",
+    "name": "#23"
+  },
+  "24": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SalmonPinkGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports2"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "ArmyHat"
+      },
+      {
+        "trait_type": "Text",
+        "value": "SushiParadise"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/24",
+    "name": "#24"
+  },
+  "25": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HakamaNavy"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlackMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HeadphoneBlack"
+      },
+      {
+        "trait_type": "Text",
+        "value": "EscapeFromReality"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/25",
+    "name": "#25"
+  },
+  "26": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HakamaBlack"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "MoshMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BlueGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "3D"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "ArmyHat"
+      },
+      {
+        "trait_type": "Text",
+        "value": "Cucumber"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/26",
+    "name": "#26"
+  },
+  "27": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HiphopStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "IceCreamVanilla"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TropicalJuice"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/27",
+    "name": "#27"
+  },
+  "28": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HiphopStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "VR"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "PiercePurple"
+      },
+      {
+        "trait_type": "Text",
+        "value": "InhaleTheFuture"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/28",
+    "name": "#28"
+  },
+  "29": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HakamaBlack"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SalmonPinkPlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "3D"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Beanie"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TropicalJuice"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/29",
+    "name": "#29"
+  },
+  "30": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MacintoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlackMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangePlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports1"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Horn"
+      },
+      {
+        "trait_type": "Text",
+        "value": "EscapeFromReality"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/30",
+    "name": "#30"
+  },
+  "31": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "DoctorStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkBleah"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports2"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HeadphoneBlack"
+      },
+      {
+        "trait_type": "Text",
+        "value": "EscapeFromReality"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/31",
+    "name": "#31"
+  },
+  "32": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "ArmyStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SalmonPinkGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "VR"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "ArmyHatPink"
+      },
+      {
+        "trait_type": "Text",
+        "value": "InhaleTheFuture"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/32",
+    "name": "#32"
+  },
+  "33": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MacintoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlackMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BluePlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Pixel"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "Text",
+        "value": "SushiParadise"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/33",
+    "name": "#33"
+  },
+  "34": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "NavyUniform"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "GreyMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeBleah"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports1"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HatRed"
+      },
+      {
+        "trait_type": "Text",
+        "value": "StrawberryMilk"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/34",
+    "name": "#34"
+  },
+  "35": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "NavyUniform"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "GreyMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Pixel"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Propeller2"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TropicalJuice"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/35",
+    "name": "#35"
+  },
+  "36": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "ArmyStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "MoshMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BlueBleah"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HeadphoneBlue"
+      },
+      {
+        "trait_type": "Text",
+        "value": "InhaleTheFuture"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/36",
+    "name": "#36"
+  },
+  "37": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "DoctorStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BluePlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "VR"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "PartyHat"
+      },
+      {
+        "trait_type": "Text",
+        "value": "EscapeFromReality"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/37",
+    "name": "#37"
+  },
+  "38": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HakamaBlack"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangePlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HeadphoneBlack"
+      },
+      {
+        "trait_type": "Text",
+        "value": "EscapeFromReality"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/38",
+    "name": "#38"
+  },
+  "39": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "NavyUniform"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkPlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "3D"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "Text",
+        "value": "LoveAtFirstSight"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/39",
+    "name": "#39"
+  },
+  "40": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "DoctorStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkPlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "3D"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Propeller2"
+      },
+      {
+        "trait_type": "Text",
+        "value": "StrawberryMilk"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/40",
+    "name": "#40"
+  },
+  "41": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "ArmyStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangePlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "VR"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "MoshHat"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TropicalJuice"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/41",
+    "name": "#41"
+  },
+  "42": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "ArmyStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlackMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "ArmyHatPink"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TokyoSummer"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/42",
+    "name": "#42"
+  },
+  "43": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "TrippySweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SalmonPinkGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports1"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "ArmyHat"
+      },
+      {
+        "trait_type": "Text",
+        "value": "LoveAtFirstSight"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/43",
+    "name": "#43"
+  },
+  "44": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "GreyMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "VR"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "ArmyHat"
+      },
+      {
+        "trait_type": "Text",
+        "value": "ZettaiRyoiki"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/44",
+    "name": "#44"
+  },
+  "45": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HiphopStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SalmonPinkGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Pixel"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "MoshHat"
+      },
+      {
+        "trait_type": "Text",
+        "value": "LoveAtFirstSight"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/45",
+    "name": "#45"
+  },
+  "46": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HiphopStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlackMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SalmonPinkPlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports2"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Horn"
+      },
+      {
+        "trait_type": "Text",
+        "value": "ZettaiRyoiki"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/46",
+    "name": "#46"
+  },
+  "47": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "CursorStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "GreyMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BlueGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports1"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Propeller"
+      },
+      {
+        "trait_type": "Text",
+        "value": "Cucumber"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/47",
+    "name": "#47"
+  },
+  "48": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MacintoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkBleah"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Pixel"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Beanie"
+      },
+      {
+        "trait_type": "Text",
+        "value": "InhaleTheFuture"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/48",
+    "name": "#48"
+  },
+  "49": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MacintoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SalmonPinkPlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "VR"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "ArmyHat"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TropicalJuice"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/49",
+    "name": "#49"
+  },
+  "50": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "ArmyStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "MoshMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "PartyHat"
+      },
+      {
+        "trait_type": "Text",
+        "value": "InhaleTheFuture"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/50",
+    "name": "#50"
+  },
+  "51": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MacintoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlackMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SalmonPinkBleah"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "3D"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "ArmyHatPink"
+      },
+      {
+        "trait_type": "Text",
+        "value": "LoveAtFirstSight"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/51",
+    "name": "#51"
+  },
+  "52": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HakamaBlack"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "MoshMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "Text",
+        "value": "LoveAtFirstSight"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/52",
+    "name": "#52"
+  },
+  "53": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "ArmyStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "GreyMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangePlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "3D"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HatBlack"
+      },
+      {
+        "trait_type": "Text",
+        "value": "InhaleTheFuture"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/53",
+    "name": "#53"
+  },
+  "54": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MacintoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlackMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Propeller2"
+      },
+      {
+        "trait_type": "Text",
+        "value": "EscapeFromReality"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/54",
+    "name": "#54"
+  },
+  "55": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MacintoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "OrangeMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SalmonPinkPlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Pixel"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HeadphoneBlue"
+      },
+      {
+        "trait_type": "Text",
+        "value": "SushiParadise"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/55",
+    "name": "#55"
+  },
+  "56": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HakamaNavy"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "MoshMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Beanie"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TropicalJuice"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/56",
+    "name": "#56"
+  },
+  "57": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "DoctorStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "3D"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HatBlack"
+      },
+      {
+        "trait_type": "Text",
+        "value": "LoveAtFirstSight"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/57",
+    "name": "#57"
+  },
+  "58": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "CursorStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BlueGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "ArmyHat"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TropicalJuice"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/58",
+    "name": "#58"
+  },
+  "59": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HakamaBlack"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BlueBleah"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports2"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "MoshHat"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TokyoSummer"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/59",
+    "name": "#59"
+  },
+  "60": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MacintoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "MoshMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkPlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Doctor"
+      },
+      {
+        "trait_type": "Text",
+        "value": "LoveAtFirstSight"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/60",
+    "name": "#60"
+  },
+  "61": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "DoctorStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "OrangeMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "SalmonPinkGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Propeller2"
+      },
+      {
+        "trait_type": "Text",
+        "value": "SushiParadise"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/61",
+    "name": "#61"
+  },
+  "62": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HiphopStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BlueGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HatBlack"
+      },
+      {
+        "trait_type": "Text",
+        "value": "Cucumber"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/62",
+    "name": "#62"
+  },
+  "63": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "ArmyStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangePlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Pixel"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "ArmyHat"
+      },
+      {
+        "trait_type": "Text",
+        "value": "InhaleTheFuture"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/63",
+    "name": "#63"
+  },
+  "64": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "TrippySweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "GreyMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BlueBleah"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "PierceGold"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TropicalJuice"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/64",
+    "name": "#64"
+  },
+  "65": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MacintoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports2"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Beanie"
+      },
+      {
+        "trait_type": "Text",
+        "value": "ZettaiRyoiki"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/65",
+    "name": "#65"
+  },
+  "66": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HiphopStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "OrangeMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkPlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Laser"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HatRed"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TropicalJuice"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/66",
+    "name": "#66"
+  },
+  "67": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HiphopStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BlueGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports2"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Bucket"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TokyoSummer"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/67",
+    "name": "#67"
+  },
+  "68": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HakamaNavy"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlueMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HeadphoneBlack"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TropicalJuice"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/68",
+    "name": "#68"
+  },
+  "69": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB3"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HiphopStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "MoshMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeBleah"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports2"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "IceCreamVanilla"
+      },
+      {
+        "trait_type": "Text",
+        "value": "TropicalJuice"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/69",
+    "name": "#69"
+  },
+  "70": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ARB1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "HakamaNavy"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "MoshMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkPlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports2"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Bucket"
+      },
+      {
+        "trait_type": "Text",
+        "value": "InhaleTheFuture"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/70",
+    "name": "#70"
+  },
+  "71": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MacintoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "YellowMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "OrangeGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HatRed"
+      },
+      {
+        "trait_type": "Text",
+        "value": "StrawberryMilk"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/71",
+    "name": "#71"
+  },
+  "72": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "DoctorStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "MoshMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkPlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Beanie"
+      },
+      {
+        "trait_type": "Text",
+        "value": "EscapeFromReality"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/72",
+    "name": "#72"
+  },
+  "73": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "MacintoshSweater"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "MoshMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkGrowl"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "ArmyHatPink"
+      },
+      {
+        "trait_type": "Text",
+        "value": "EscapeFromReality"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/73",
+    "name": "#73"
+  },
+  "74": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "NavyUniform"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "MoshMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Sports1"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "ArmyHat"
+      },
+      {
+        "trait_type": "Text",
+        "value": "Cucumber"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/74",
+    "name": "#74"
+  },
+  "75": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "ONE2"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "NavyUniform"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "BlackMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "PinkPlain"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "Laser"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "HeadphoneBlue"
+      },
+      {
+        "trait_type": "Text",
+        "value": "InhaleTheFuture"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/75",
+    "name": "#75"
+  },
+  "76": {
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "MATIC1"
+      },
+      {
+        "trait_type": "Clothes",
+        "value": "ArmyStyle"
+      },
+      {
+        "trait_type": "Mane",
+        "value": "GreyMane"
+      },
+      {
+        "trait_type": "Face",
+        "value": "BlueGrin"
+      },
+      {
+        "trait_type": "Sunglasses",
+        "value": "3D"
+      },
+      {
+        "trait_type": "Hats",
+        "value": "Banana"
+      },
+      {
+        "trait_type": "Text",
+        "value": "StrawberryMilk"
+      }
+    ],
+    "description": "",
+    "image": "https://art.mosh.lol/76",
+    "name": "#76"
+  }
+}
