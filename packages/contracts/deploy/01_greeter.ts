@@ -7,19 +7,28 @@ const deploy = async ({
   getNamedAccounts,
   deployments,
   ethers,
+  network,
 }: HardhatRuntimeEnvironment) => {
+  if (network.name !== "hardhat") {
+    return;
+  }
+
   const { deploy } = deployments;
   const { deployer } = await getNamedAccounts();
-  await deploy("MyNFT", {
-    args: [],
+  await deploy("Greeter", {
+    args: ["Hello World"],
     from: deployer,
     log: true,
   });
+
   const greeterFactory = (await ethers.getContractFactory(
     "Greeter",
   )) as Greeter__factory;
-  const greeter: Greeter = <Greeter>await greeterFactory.deploy("Hello");
+  const greeter: Greeter = <Greeter>(
+    await greeterFactory.deploy("Hello from Greeter")
+  );
   await greeter.deployed();
+  await greeter.setGreeting("Changed New Greeting");
 };
 
 deploy.tags = ["Greeter"];
