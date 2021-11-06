@@ -2,6 +2,7 @@ import * as dotenv from "dotenv";
 
 import "tsconfig-paths/register";
 
+import { removeConsoleLog } from "hardhat-preprocessor";
 import type { HardhatUserConfig } from "hardhat/config";
 import "@nomiclabs/hardhat-ethers";
 import "@nomiclabs/hardhat-etherscan";
@@ -34,8 +35,13 @@ const config: HardhatUserConfig = {
     localhost: {
       live: false,
       saveDeployments: true,
+      tags: ["local"],
     },
     hardhat: {
+      forking: {
+        enabled: process.env.FORKING === "true",
+        url: `${process.env.ALCHEMY_MAINNET_URL}`,
+      },
       live: false,
       saveDeployments: true,
     },
@@ -146,6 +152,30 @@ const config: HardhatUserConfig = {
       tags: ["staging"],
       gasMultiplier: 2,
     },
+    moonriver: {
+      url: "https://rpc.moonriver.moonbeam.network",
+      accounts: accounts,
+      chainId: 1285,
+      saveDeployments: true,
+    },
+    moonbase: {
+      url: "https://rpc.testnet.moonbeam.network",
+      accounts: accounts,
+      chainId: 1287,
+      saveDeployments: true,
+      tags: ["staging"],
+      gas: 5198000,
+      gasMultiplier: 2,
+    },
+  },
+  paths: {
+    artifacts: "artifacts",
+    cache: "cache",
+    deploy: "deploy",
+    deployments: "deployments",
+    imports: "imports",
+    sources: "contracts",
+    tests: "test",
   },
   abiExporter: {
     path: "./abi",
@@ -162,6 +192,11 @@ const config: HardhatUserConfig = {
     outDir: "typechain",
     target: "ethers-v5",
     alwaysGenerateOverloads: true,
+  },
+  preprocess: {
+    eachLine: removeConsoleLog(bre => {
+      return bre.network.name !== "hardhat" && bre.network.name !== "localhost";
+    }),
   },
   spdxLicenseIdentifier: {
     overwrite: false,

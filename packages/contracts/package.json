@@ -36,7 +36,7 @@
     "deploy:testnetHarmony": "yarn run deploy:cmd --network testnetHarmony",
     "deploy:xdai": "yarn run deploy:cmd --network xdai",
     "env:pull": "doppler secrets download --no-file --format env > .env",
-    "export:hardhat": "hardhat export --export-all ../generated/contracts/hardhat_contracts.json",
+    "export": "hardhat export --export-all exports/deployments.json",
     "hardhat": "hardhat",
     "node": "hardhat node --hostname 0.0.0.0 --show-accounts",
     "task:accounts": "hardhat accounts",
@@ -45,7 +45,8 @@
     "task:deploy:NFT": "hardhat deploy:NFT",
     "task:deploy:Wave": "hardhat deploy:Wave",
     "test": "hardhat test",
-    "test:gas": "REPORT_GAS=true hardhat test"
+    "test:gas": "REPORT_GAS=true hardhat test",
+    "watch:compile": "hardhat watch compile"
   },
   "dependencies": {
     "@ethersproject/providers": "^5.5.0",
