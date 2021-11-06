@@ -48,11 +48,14 @@
     "task:deploy:NFT": "hardhat deploy:NFT",
     "task:deploy:Wave": "hardhat deploy:Wave",
     "test": "hardhat test",
+    "test:coverate": "hardhat coverate",
     "test:gas": "REPORT_GAS=true hardhat test",
+    "verify": "yarn run verify:mainnet",
     "verify:cmd": "hardhat etherscan-verify --solc-input",
     "verify:mainnet": "yarn run verify:cmd --network mainnet",
     "verify:rinkeby": "yarn run verify:cmd --network rinkeby",
     "verify:ropsten": "yarn run verify:cmd --network ropsten",
+    "watch": "yarn run watch:compile",
     "watch:compile": "hardhat watch compile"
   },
   "dependencies": {
