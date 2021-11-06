@@ -62,6 +62,9 @@
     "hardhat-abi-exporter": "^2.3.1",
     "hardhat-deploy": "^0.9.4",
     "hardhat-gas-reporter": "^1.0.4",
+    "hardhat-preprocessor": "^0.1.4",
+    "hardhat-spdx-license-identifier": "^2.0.3",
+    "hardhat-watcher": "^2.1.1",
     "solc": "^0.8.9",
     "solidity-coverage": "^0.7.17",
     "tsconfig-paths": "^3.11.0"

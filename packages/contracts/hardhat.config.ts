@@ -11,6 +11,8 @@ import "@typechain/hardhat";
 import "hardhat-abi-exporter";
 import "hardhat-deploy";
 import "hardhat-gas-reporter";
+import "hardhat-spdx-license-identifier";
+import "hardhat-watcher";
 import "./tasks";
 
 dotenv.config();
@@ -46,11 +48,15 @@ const config: HardhatUserConfig = {
       url: `https://rinkeby.infura.io/v3/${process.env.INFURA_PROJECT_ID}`,
       accounts: accounts,
       saveDeployments: true,
+      tags: ["staging"],
+      gasMultiplier: 2,
     },
     ropsten: {
       url: `https://ropsten.infura.io/v3/${process.env.INFURA_PROJECT_ID}`,
       accounts: accounts,
       saveDeployments: true,
+      tags: ["staging"],
+      gasMultiplier: 2,
     },
     polygon: {
       url: `https://polygon-mainnet.infura.io/v3/${process.env.INFURA_PROJECT_ID}`,
@@ -61,6 +67,8 @@ const config: HardhatUserConfig = {
       url: `https://polygon-mumbai.infura.io/v3/${process.env.INFURA_PROJECT_ID}`,
       accounts: accounts,
       saveDeployments: true,
+      tags: ["staging"],
+      gasMultiplier: 2,
     },
     arbitrum: {
       url: `https://arbitrum-mainnet.infura.io/v3/${process.env.INFURA_PROJECT_ID}`,
@@ -71,34 +79,72 @@ const config: HardhatUserConfig = {
       url: `https://arbitrum-rinkeby.infura.io/v3/${process.env.INFURA_PROJECT_ID}`,
       accounts: accounts,
       saveDeployments: true,
+      tags: ["staging"],
     },
     xdai: {
       url: "https://rpc.xdaichain.com/",
       accounts: accounts,
+      saveDeployments: true,
     },
     avalanche: {
       url: "https://api.avax.network/ext/bc/C/rpc",
       gasPrice: 225000000000,
       chainId: 43114,
       accounts: accounts,
+      saveDeployments: true,
     },
     fuji: {
       url: "https://api.avax-test.network/ext/bc/C/rpc",
       gasPrice: 225000000000,
       chainId: 43113,
       accounts: accounts,
-    },
-    testnetHarmony: {
-      url: "https://api.s0.b.hmny.io",
-      gasPrice: 1000000000,
-      chainId: 1666700000,
-      accounts: accounts,
+      saveDeployments: true,
+      tags: ["staging"],
     },
     harmony: {
       url: "https://api.harmony.one",
       gasPrice: 1000000000,
       chainId: 1666600000,
       accounts: accounts,
+      saveDeployments: true,
+    },
+    "harmony-testnet": {
+      url: "https://api.s0.b.hmny.io",
+      gasPrice: 1000000000,
+      chainId: 1666700000,
+      accounts: accounts,
+      saveDeployments: true,
+      tags: ["staging"],
+      gasMultiplier: 2,
+    },
+    fantom: {
+      url: "https://rpcapi.fantom.network",
+      accounts: accounts,
+      chainId: 250,
+      saveDeployments: true,
+      gasPrice: 22000000000,
+    },
+    "fantom-testnet": {
+      url: "https://rpc.testnet.fantom.network",
+      accounts: accounts,
+      chainId: 4002,
+      saveDeployments: true,
+      tags: ["staging"],
+      gasMultiplier: 2,
+    },
+    bsc: {
+      url: "https://bsc-dataseed.binance.org",
+      accounts: accounts,
+      chainId: 56,
+      saveDeployments: true,
+    },
+    "bsc-testnet": {
+      url: "https://data-seed-prebsc-2-s3.binance.org:8545",
+      accounts: accounts,
+      chainId: 97,
+      saveDeployments: true,
+      tags: ["staging"],
+      gasMultiplier: 2,
     },
   },
   abiExporter: {
@@ -116,6 +162,17 @@ const config: HardhatUserConfig = {
     outDir: "typechain",
     target: "ethers-v5",
     alwaysGenerateOverloads: true,
+  },
+  spdxLicenseIdentifier: {
+    overwrite: false,
+    runOnCompile: true,
+  },
+  watcher: {
+    compile: {
+      tasks: ["compile"],
+      files: ["./contracts"],
+      verbose: true,
+    },
   },
 };
 
