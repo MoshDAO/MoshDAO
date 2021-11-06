@@ -21,6 +21,7 @@
     "clean:sol": "hardhat clean",
     "compile": "hardhat compile --force",
     "coverage": "hardhat coverage",
+    "deploy": "yarn run deploy:hardhat",
     "deploy:arbitrum": "yarn run deploy:cmd --network arbitrum",
     "deploy:arbitrumRinkeby": "yarn run deploy:cmd --network arbitrumRinkeby",
     "deploy:avalanche": "yarn run deploy:cmd --network avalanche",
