@@ -1,0 +1,24 @@
+{
+  "name": "@moshdao/sdk",
+  "version": "1.0.0",
+  "private": false,
+  "description": "SDK for Mosh DAO",
+  "homepage": "https://www.mosh.lol",
+  "bugs": {
+    "url": "https://github.com/MoshDAO/MoshDAO/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoshDAO/MoshDAO.git"
+  },
+  "license": "MIT",
+  "author": "Mosh DAO",
+  "scripts": {},
+  "dependencies": {
+    "@nouns/sdk": "^0.1.3",
+    "ethers": "^5.5.1"
+  },
+  "devDependencies": {
+    "node-libpng": "^0.2.20"
+  }
+}

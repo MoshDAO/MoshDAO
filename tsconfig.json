@@ -1,27 +1,25 @@
 {
-  "compilerOptions": {
-    "baseUrl": ".",
-    "declaration": true,
-    "declarationMap": true,
-    "esModuleInterop": true,
-    "module": "commonjs",
-    "outDir": "./dist",
-    "paths": {
-      "@/app/*": ["./packages/app/src/*"],
-      "@/app/public/*": ["./packages/app/public/*"],
-      "@/art/*": ["./packages/art/src/*"],
-      "@/art/public/*": ["./packages/art/public/*"],
-      "@/artifacts/*": ["./packages/contracts/artifacts/*"],
-      "@/deployments/*": ["./packages/contracts/deployments/*"],
-      "@/home/*": ["./packages/home/src/*"],
-      "@/home/public/*": ["./packages/home/public/*"],
-      "@/typechain/*": ["./packages/contracts/typechain/*"],
-      "@/types/*": ["./packages/types/index.ts"]
+  "references": [
+    {
+      "path": "packages/app"
     },
-    "sourceMap": true,
-    "strict": true,
-    "target": "ES2017"
-  },
-  "exclude": ["dist", "node_modules"],
-  "include": ["./packages/**/**/src/**.ts"]
+    {
+      "path": "packages/art"
+    },
+    {
+      "path": "packages/assets"
+    },
+    {
+      "path": "packages/contracts"
+    },
+    {
+      "path": "packages/home"
+    },
+    {
+      "path": "packages/sdk"
+    },
+    {
+      "path": "packages/subgraph"
+    }
+  ]
 }

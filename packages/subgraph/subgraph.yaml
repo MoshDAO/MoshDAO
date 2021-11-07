@@ -1,0 +1,27 @@
+specVersion: 0.0.1
+description: Gravatar for Ethereum
+repository: https://github.com/MoshDAO/MoshDAO
+schema:
+  file: ./schema.graphql
+dataSources:
+  - kind: ethereum/contract
+    name: GravatarRegistry
+    network: hardhat
+    source:
+      address: '0x5fbdb2315678afecb367f032d93f642f64180aa3'
+      abi: GravatarRegistry
+    mapping:
+      kind: ethereum/events
+      apiVersion: 0.0.5
+      language: wasm/assemblyscript
+      entities:
+        - Gravatar
+      abis:
+        - name: GravatarRegistry
+          file: ../eth/artifacts/contracts/Gravity.sol/GravatarRegistry.json
+      eventHandlers:
+        - event: NewGravatar(uint256,address,string,string)
+          handler: handleNewGravatar
+        - event: UpdatedGravatar(uint256,address,string,string)
+          handler: handleUpdatedGravatar
+      file: ./src/mapping.ts
