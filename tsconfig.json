@@ -35,10 +35,10 @@
       "path": "packages/contracts"
     },
     {
-      "path": "packages/graph"
+      "path": "packages/home"
     },
     {
-      "path": "packages/home"
+      "path": "packages/subgraph"
     }
   ]
 }

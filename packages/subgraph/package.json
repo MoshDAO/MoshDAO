@@ -1,8 +1,8 @@
 {
-  "name": "@moshdao/graph",
+  "name": "@moshdao/subgraph",
   "version": "1.0.0",
   "private": false,
-  "description": "Graph for Mosh DAO",
+  "description": "The Graph for Mosh DAO",
   "homepage": "https://app.mosh.lol",
   "bugs": {
     "url": "https://github.com/MoshDAO/MoshDAO/issues"
