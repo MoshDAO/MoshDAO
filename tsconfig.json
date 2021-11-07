@@ -23,5 +23,22 @@
     "target": "ES2017"
   },
   "exclude": ["dist", "node_modules"],
-  "include": ["./packages/**/**/src/**.ts"]
+  "include": ["./packages/**/**/src/**.ts"],
+  "references": [
+    {
+      "path": "packages/app"
+    },
+    {
+      "path": "packages/art"
+    },
+    {
+      "path": "packages/contracts"
+    },
+    {
+      "path": "packages/graph"
+    },
+    {
+      "path": "packages/home"
+    }
+  ]
 }
