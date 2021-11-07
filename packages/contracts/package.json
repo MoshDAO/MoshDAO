@@ -16,7 +16,7 @@
   "scripts": {
     "build": "yarn run clean && yarn build:sol && yarn build:ts",
     "build:sol": "yarn run compile",
-    "build:ts": "tsc -p .",
+    "build:ts": "tsc . -p tsconfig.build.json",
     "clean": "yarn run clean:sol",
     "clean:sol": "hardhat clean",
     "compile": "hardhat compile --force",
