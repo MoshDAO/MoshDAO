@@ -1,0 +1,19 @@
+{
+  "name": "@moshdao/assets",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Assets for Mosh DAO",
+  "homepage": "https://www.mosh.lol",
+  "bugs": {
+    "url": "https://github.com/MoshDAO/MoshDAO/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoshDAO/MoshDAO.git"
+  },
+  "license": "MIT",
+  "author": "Mosh DAO",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}

@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDirs": ["src", "test"]
+  },
+  "extends": "../../tsconfig.base.json",
+  "references": [
+    {
+      "path": "../contracts/tsconfig.build.json"
+    }
+  ]
+}

@@ -1196,6 +1196,19 @@
     "@types/sinon-chai" "^3.2.3"
     "@types/web3" "1.0.19"
 
+"@nouns/contracts@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@nouns/contracts/-/contracts-0.1.2.tgz#cd80a963988c46428dcafef661238b8be93f7d00"
+  integrity sha512-BzP0iBgqbfNa+NJTykUzZYzgisAc2nkFjZXHWAf5pywLDviOgFKIULM0kmlR2iPyHtTQ5Y4My5yduwolmfAQAQ==
+
+"@nouns/sdk@^0.1.3":
+  version "0.1.3"
+  resolved "https://registry.yarnpkg.com/@nouns/sdk/-/sdk-0.1.3.tgz#737d94c668a40e1673825a5cae6cf049d9d5ce77"
+  integrity sha512-2Nz+0xwjl668pu+f5kuAttM6w7X34k3raOBodP4L5RsbvhiJV4GuoN2CJEg9TRBod1NaCtN+SdywJ/VQMtnhVg==
+  dependencies:
+    "@nouns/contracts" "^0.1.2"
+    ethers "^5.4.7"
+
 "@npmcli/arborist@^2.3.0", "@npmcli/arborist@^2.5.0", "@npmcli/arborist@^2.9.0":
   version "2.10.0"
   resolved "https://registry.yarnpkg.com/@npmcli/arborist/-/arborist-2.10.0.tgz#424c2d73a7ae59c960b0cc7f74fed043e4316c2c"
@@ -11936,6 +11949,13 @@ node-html-parser@1.4.9:
   integrity sha512-UVcirFD1Bn0O+TSmloHeHqZZCxHjvtIeGdVdGMhyZ8/PWlEiZaZ5iJzR189yKZr8p0FXN58BUeC7RHRkf/KYGw==
   dependencies:
     he "1.2.0"
+
+node-libpng@^0.2.20:
+  version "0.2.20"
+  resolved "https://registry.yarnpkg.com/node-libpng/-/node-libpng-0.2.20.tgz#788f9e3b8e091478b51a20296ceba0098a9ec31e"
+  integrity sha512-2r6y7Z3svNlSip+Dwper6NeuUgI5BDEeI/1daZI4X+VKpOFS6ymhU3kIPZpzN+5qusYOw/grJGfSRoZdBhyx2A==
+  dependencies:
+    request "^2.88.2"
 
 node-releases@^1.1.71:
   version "1.1.77"
